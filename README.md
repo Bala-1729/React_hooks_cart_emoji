@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed:https://bala-1729.github.io/React_hooks_cart_emoji
+
 ## Available Scripts
 
 In the project directory, you can run:
