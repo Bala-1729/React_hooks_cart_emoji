@@ -1,0 +1,17 @@
+
+.container{
+    background-color: #77d6ec;
+    height: 200px;
+}
+
+.emoji_smile{
+    text-align: center;
+    color: green;
+    cursor: pointer;
+}
+
+.emoji_sad{
+    text-align: center;
+    color: red;
+    cursor: pointer;
+}

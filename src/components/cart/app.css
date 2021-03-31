@@ -1,0 +1,44 @@
+#container{
+    width: 40%;
+    margin: auto;
+    margin-top: 25vh;
+    background-color: white;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 1px 1px 6px;
+}
+
+td{
+    padding: 10px 0;
+}
+
+#item{
+    padding: 20px 0;
+}
+#left{
+    padding-right: 50px;
+}
+
+#right{
+    padding-left: 100px;
+}
+
+button{
+    background-color: #e3e7ec;
+    border: none;
+    border-radius: 4px;
+    padding: 4px 8px;
+    cursor: pointer;
+}
+button:disabled{
+    background-color: #fcfcfc;
+}
+
+p{
+    font-size: larger;
+    margin-top: 10px;
+}
+
+#heading{
+    font-size: x-large;
+}
