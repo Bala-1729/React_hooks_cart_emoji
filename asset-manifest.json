@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React_hooks_cart_emoji/static/css/main.208f3ab2.chunk.css",
+    "main.css": "/React_hooks_cart_emoji/static/css/main.fd7db153.chunk.css",
     "main.js": "/React_hooks_cart_emoji/static/js/main.54f64035.chunk.js",
     "main.js.map": "/React_hooks_cart_emoji/static/js/main.54f64035.chunk.js.map",
     "runtime-main.js": "/React_hooks_cart_emoji/static/js/runtime-main.de0e15aa.js",
@@ -8,13 +8,13 @@
     "static/js/2.aff36b33.chunk.js": "/React_hooks_cart_emoji/static/js/2.aff36b33.chunk.js",
     "static/js/2.aff36b33.chunk.js.map": "/React_hooks_cart_emoji/static/js/2.aff36b33.chunk.js.map",
     "index.html": "/React_hooks_cart_emoji/index.html",
-    "static/css/main.208f3ab2.chunk.css.map": "/React_hooks_cart_emoji/static/css/main.208f3ab2.chunk.css.map",
+    "static/css/main.fd7db153.chunk.css.map": "/React_hooks_cart_emoji/static/css/main.fd7db153.chunk.css.map",
     "static/js/2.aff36b33.chunk.js.LICENSE.txt": "/React_hooks_cart_emoji/static/js/2.aff36b33.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.de0e15aa.js",
     "static/js/2.aff36b33.chunk.js",
-    "static/css/main.208f3ab2.chunk.css",
+    "static/css/main.fd7db153.chunk.css",
     "static/js/main.54f64035.chunk.js"
   ]
 }
